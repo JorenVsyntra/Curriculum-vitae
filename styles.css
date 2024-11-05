@@ -54,7 +54,15 @@ ul {
 }
 
 ul li {
-    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
-
+ul li .logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    border-radius: 5px;
+    object-fit: cover;
+}
