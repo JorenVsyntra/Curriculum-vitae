@@ -57,11 +57,4 @@ ul li {
     margin-bottom: 5px;
 }
 
-#contact a {
-    color: #0056b3;
-    text-decoration: none;
-}
 
-#contact a:hover {
-    text-decoration: underline;
-}
